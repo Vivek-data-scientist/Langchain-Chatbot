@@ -14,6 +14,8 @@ Tools and Technologies Used:
 - Jupyter Notebook
 - Model used - text-bison@002
 
+Deployment also done in Huggingface Space
+
 Execution Steps:
  - Paste your Google PaLM API key in secret_key.py file
   - Open Terminal in IDE and execute below command
