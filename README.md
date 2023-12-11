@@ -19,5 +19,10 @@ Deployment also done in Huggingface Space
 Execution Steps:
  - Paste your Google PaLM API key in secret_key.py file
   - Open Terminal in IDE and execute below command
+         streamlit run main.py
 
-streamlit run main.py
+##Snapshots
+![image](https://github.com/Vivek-data-scientist/Langchain-Chatbot/assets/103434910/b93d2b66-ddc5-4b5c-ab65-d820a4c7af25)
+![image](https://github.com/Vivek-data-scientist/Langchain-Chatbot/assets/103434910/85ddc1de-7353-4334-a198-05d54d42076f)
+
+
